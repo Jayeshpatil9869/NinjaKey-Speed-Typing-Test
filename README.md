@@ -18,12 +18,12 @@ NinjaKey Speed Typing Test is a feature-rich web application designed to help us
 
 ### Usage
 
-1. Clone the repository: ``
+1. Clone the repository: `https://github.com/Jayeshpatil9869/NinjaKey-Speed-Typing-Test.git`
 2. Open `index.html` in your web browser.
 3. Start typing and see your results in real-time!
 
 ### Live Demo
-- Try out NinjaKey Speed Typing Test with our Live Demo: 
+- Try out NinjaKey Speed Typing Test with our Live Demo: https://jayeshpatil9869.github.io/NinjaKey-Speed-Typing-Test/
 
 ### Contributing
 
