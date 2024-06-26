@@ -1,5 +1,4 @@
-
-NinjaKey Speed Typing Test is a feature-rich web application designed to help users improve their typing speed and accuracy. With customizable time options, difficulty levels, and real-time feedback, this tool caters to users of all skill levels.
+TypingNinja is a feature-rich web application designed to help users improve their typing speed and accuracy. With customizable time options, difficulty levels, and real-time feedback, this tool caters to users of all skill levels.
 
 ### Key Features
 
@@ -9,7 +8,7 @@ NinjaKey Speed Typing Test is a feature-rich web application designed to help us
 - **Countdown Timer:** Stay motivated with a countdown timer to complete the test within the allotted time.
 - **Detailed Statistics:** Receive comprehensive statistics including words per minute (WPM) and accuracy percentage upon completion.
 
-### Why NinjaKey Speed Typing Test?
+### Why TypingNinja?
 
 - **Enhance Typing Skills:** Improve your typing speed and accuracy efficiently.
 - **User-Friendly Interface:** Enjoy a clean design and intuitive controls for a seamless experience.
@@ -18,14 +17,13 @@ NinjaKey Speed Typing Test is a feature-rich web application designed to help us
 
 ### Usage
 
-1. Clone the repository: `https://github.com/Jayeshpatil9869/NinjaKey-Speed-Typing-Test.git`
+1. Clone the repository: `https://github.com/Jayeshpatil9869/TypingNinja.git`
 2. Open `index.html` in your web browser.
 3. Start typing and see your results in real-time!
 
 ### Live Demo
-- Try out NinjaKey Speed Typing Test with our Live Demo: https://jayeshpatil9869.github.io/NinjaKey-Speed-Typing-Test/
+- Try out TypingNinja with our Live Demo: https://jayeshpatil9869.github.io/TypingNinja/
 
 ### Contributing
 
-We welcome contributions to NinjaKey Speed Typing Test! If you have suggestions for new features or improvements, please open an issue or submit a pull request.
-
+We welcome contributions to TypingNinja! If you have suggestions for new features or improvements, please open an issue or submit a pull request.
